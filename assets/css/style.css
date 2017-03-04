@@ -1,0 +1,12 @@
+
+/* star with brackets applles elements in side brackets to whole page*/
+
+* {
+	box-sizing: border-box;
+}
+
+#start{
+	font-style: italic;
+	font-color: white;
+	background-color: blue;
+}
